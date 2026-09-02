@@ -1,9 +1,9 @@
 {
   "name": "ezekia-search-suite",
-  "description": "13-skill executive-search workflow suite for Ezekia — onboarding, sourcing, mapping, reporting, and CRM hygiene",
-  "version": "1.0.0",
+  "description": "Executive search workflow suite for Ezekia — onboarding, sourcing, mapping, reporting, and CRM hygiene",
+  "version": "1.0.1",
   "author": {
-    "name": "Andrew Quinn",
-    "email": "andrew@ezekia.com"
+    "name": "Ezekia",
+    "email": "support@ezekia.com"
   }
 }

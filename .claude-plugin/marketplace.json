@@ -1,6 +1,6 @@
 {
   "name": "ezekia-tools",
-  "owner": { "name": "Andrew Quinn", "email": "andrew@ezekia.com" },
+  "owner": { "name": "Ezekia", "email": "support@ezekia.com" },
   "plugins": [
     {
       "name": "ezekia-search-suite",
