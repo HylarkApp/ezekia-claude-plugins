@@ -1,0 +1,11 @@
+{
+  "name": "ezekia-tools",
+  "owner": { "name": "Andrew Quinn", "email": "andrew@ezekia.com" },
+  "plugins": [
+    {
+      "name": "ezekia-search-suite",
+      "source": "./ezekia-search-suite",
+      "description": "Executive search workflow suite for Ezekia"
+    }
+  ]
+}
